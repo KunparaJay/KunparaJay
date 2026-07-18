@@ -33,27 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=KunparaJay&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=KunparaJay&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KunparaJay&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=KunparaJay&theme=onedark&no-frame=true&row=1&column=6)
-
----
-
-## 📈 Contribution Graph
-
-[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KunparaJay&theme=tokyo-night)](https://github.com/KunparaJay)
-
----
 
 ## 🌐 Connect with Me
 
