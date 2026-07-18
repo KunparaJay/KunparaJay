@@ -1,128 +1,107 @@
 <div align="center">
 
-# Hi 👋 I'm Jay Kunpara
+# Hi 👋, I'm Bhargav Patel
 
-### 💻 B.Sc. (IT) Student | 🚀 Full Stack Developer | 🇮🇳 India
+### 🎓 Information Technology Student | 🤖 AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub!;B.Sc.+Information+Technology+Student;Java+%7C+Python+%7C+Web+Developer;Always+Learning+New+Technologies;Open+Source+Enthusiast+🚀" />
+Passionate about building intelligent software, exploring AI technologies, and developing practical solutions for real-world problems.
 
-<img src="https://komarev.com/ghpvc/?username=KunparaJay&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-</div>
-
----
-
-# 👨‍💻 About Me
-
-- 🎓 B.Sc. Information Technology Student
-- 🌱 Currently learning **Java, Python, React & Node.js**
-- 💡 Passionate about Web Development & Open Source
-- 🚀 Building projects and improving every day
-- 🎯 Goal: Become a Full Stack Software Engineer
-
----
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,mysql,java,python,c,cpp,git,github,vscode,linux,figma,postman&perline=7" />
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+## 🚀 About Me
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KunparaJay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunparaJay&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- 🤖 Learning **Artificial Intelligence**, **Machine Learning**, and **Generative AI**
+- 💻 Building **Full Stack Web Applications** with React, Node.js, Laravel & MySQL
+- 📚 Continuously improving my problem-solving and software engineering skills
+- 🌱 Exploring AI automation, intelligent systems, and modern web technologies
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-<img src="https://streak-stats.demolab.com?user=KunparaJay&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KunparaJay&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunparaJay&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 💻 Currently Learning
-
-```text
-✔ Java
-✔ Python
-✔ React
-✔ Node.js
-✔ MongoDB
-✔ Data Structures & Algorithms
-```
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/KunparaJay">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<!-- Replace with your own links -->
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-</div>
-
----
-
-# ⚡ Fun Fact
-
-> **"The best way to learn programming is by building real projects." 🚀**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**If you like my work, don't forget to ⭐ my repositories!**
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/KunparaJay/KunparaJay/output/github-contribution-grid-snake-dark.svg" />
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,php,c,cpp" />
 </p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,laravel" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### AI & Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Manufacturing Tracker *(In Progress)*
+An AI-powered manufacturing management platform that monitors production, inventory, machine performance, and analytics to improve operational efficiency.
+
+**Tech Stack:** React • Node.js • AI • MySQL
+
+---
+
+### 🏭 Manufacturing Billing System
+A complete billing and inventory solution for manufacturing businesses featuring invoice generation, expense tracking, GST support, customer management, and reporting.
+
+**Tech Stack:** Laravel • MySQL • Bootstrap
+
+---
+
+### 🏠 Hostel Management System
+A web application for managing hostel operations including student registration, room allocation, fee management, and administrative records.
+
+**Tech Stack:** PHP • MySQL • HTML • CSS • JavaScript
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ⚡ Generative AI
+- 🔥 AI Agents
+- ☁️ Cloud Computing
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/bhargav-patel-825226371">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/bhargavpatel-54">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+<div align="center">
+
+> **"Learning today. Building intelligent solutions for tomorrow."** 🚀
+
+</div>
