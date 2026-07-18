@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Bhargav Patel
+# Hi 👋, I'm Kunpara Jay
 
 ### 🎓 Information Technology Student | 🤖 AI Enthusiast
 
