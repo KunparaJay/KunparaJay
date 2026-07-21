@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Kunpara Jay
+# Hello 👋, I'm Kunpara Jay
 
 ### 🎓 Information Technology Student | 🤖 AI Enthusiast
 
